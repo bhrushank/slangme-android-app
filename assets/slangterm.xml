@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Slang>
+<SlangTerm id="1"> 
+<Term> Sweet As </Term> 
+<Description> Cool or Awesome </Description> 
+<AudioFile>sweetas</AudioFile>
+</SlangTerm> 
+
+<SlangTerm  id="2"> 
+<Term> Kiwi </Term> 
+<Description> New Zealanders - Also a native bird to New Zealand</Description> 
+<AudioFile>kiwi</AudioFile>
+</SlangTerm> 
+
+<SlangTerm  id="3"> 
+<Term>No Worries </Term> 
+<Description> It's OK / Not a Problem </Description> 
+<AudioFile>noworries</AudioFile>
+</SlangTerm> 
+
+<SlangTerm  id="4"> 
+<Term> She'll be Right </Term> 
+<Description> 	It's OK / Not a Problem </Description> 
+<AudioFile>shellberight</AudioFile>
+</SlangTerm> 
+
+<SlangTerm  id="5"> 
+<Term> Haka </Term> 
+<Description> Maori war dance, commonly used by national sports teams </Description> 
+<AudioFile>haka</AudioFile>
+</SlangTerm> 
+
+<SlangTerm  id="6"> 
+<Term> Hangi </Term> 
+<Description> Traditional style of Maori cooking </Description> 
+<AudioFile>hangi</AudioFile>
+</SlangTerm> 
+
+<SlangTerm  id="7"> 
+<Term> Jandals </Term> 
+<Description> Flip Flops / Thongs </Description> 
+<AudioFile>jandals</AudioFile>
+</SlangTerm> 
+
+<SlangTerm  id="8"> 
+<Term> Thongs </Term> 
+<Description> G-String style underwear </Description> 
+<AudioFile>thongs</AudioFile>
+</SlangTerm> 
+
+<SlangTerm id="9"> 
+<Term> Tomato Sauce </Term> 
+<Description> Ketchup </Description> 
+<AudioFile>tomatosauce</AudioFile>
+</SlangTerm> 
+
+<SlangTerm id="10"> 
+<Term> Yeah, nah</Term> 
+<Description>This is an indecisive phrase, followed by an explanation</Description> 
+<AudioFile>yeahnah</AudioFile>
+</SlangTerm> 
+
+<SlangTerm id="11"> 
+<Term> Bro </Term> 
+<Description> Brother or good friend </Description> 
+<AudioFile>bro</AudioFile>
+</SlangTerm> 
+
+<SlangTerm id="12"> 
+<Term> You're all good </Term> 
+<Description> It's OK, thank you </Description> 
+<AudioFile>youreallgood</AudioFile>
+</SlangTerm> 
+
+<SlangTerm id="13"> 
+<Term> Pavlova </Term> 
+<Description> Meringue, smothered in whipped cream and fresh fruit. </Description> 
+<AudioFile>pavlova</AudioFile>
+</SlangTerm> 
+
+<SlangTerm id="14"> 
+<Term> Lamingtons </Term> 
+<Description> Vanilla Sponge squares, dipped in chocolate and then rolled in coconut, served with whipped cream and jam. Cam's mum makes these for us - YUM </Description> 
+<AudioFile>lamingtons</AudioFile>
+</SlangTerm> 
+
+<SlangTerm id="15"> 
+<Term> Jam </Term> 
+<Description> Fruit preserve/Jelly </Description> 
+<AudioFile>jam</AudioFile>
+</SlangTerm> 
+
+<SlangTerm id="16"> 
+<Term> Jelly </Term> 
+<Description> Jello </Description> 
+<AudioFile>jelly</AudioFile>
+</SlangTerm> 
+
+<SlangTerm id="17"> 
+<Term> Pharlap </Term> 
+<Description> 	Famous Horse born in New Zealand during 1920’s (see him at Te Papa Museum) </Description> 
+<AudioFile>pharlap</AudioFile>
+</SlangTerm> 
+
+<SlangTerm id="18"> 
+<Term> Knackered </Term> 
+<Description> Tired/Exhausted </Description> 
+<AudioFile>knackered</AudioFile>
+</SlangTerm> 
+
+<SlangTerm id="19"> 
+<Term> Long Drop </Term> 
+<Description> 	Small outhouse over a pit, with no flushing mechanism  </Description> 
+<AudioFile>longdrop</AudioFile>
+</SlangTerm> 
+
+<SlangTerm id="20"> 
+<Term> Cuzzie or Cuz </Term> 
+<Description> Cousin. Also used instead of "Bro" </Description> 
+<AudioFile>cuzzie</AudioFile>
+</SlangTerm> 
+
+<SlangTerm id="21"> 
+<Term> Motorway </Term> 
+<Description> Highway </Description> 
+<AudioFile>motorway</AudioFile>
+</SlangTerm> 
+
+<SlangTerm id="22"> 
+<Term> Jersey or Jumper </Term> 
+<Description> Pull Over / Fleece / Sweater </Description> 
+<AudioFile>jersey</AudioFile>
+</SlangTerm> 
+
+<SlangTerm id="23"> 
+<Term> Duvet </Term> 
+<Description> Doona / Comforter </Description> 
+<AudioFile>duvet</AudioFile>
+</SlangTerm> 
+
+<SlangTerm id="24"> 
+<Term> Serviette </Term> 
+<Description> Napkin </Description> 
+<AudioFile>serviette</AudioFile>
+</SlangTerm> 
+
+<SlangTerm id="25"> 
+<Term> Feijoa </Term> 
+<Description> A popular garden tree and the fruit is commonly eaten which is green and sweet. </Description> 
+<AudioFile>feijoa</AudioFile>
+</SlangTerm> 
+
+<SlangTerm id="26">  
+<Term> Pakaru </Term> 
+<Description> Not working / Broken </Description> 
+<AudioFile>pakaru</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="27"> 
+<Term> Scull </Term> 
+<Description> Drink all of your beverage (normally alcoholic) in one go without a breath </Description> 
+<AudioFile>scull</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="28"> 
+<Term> Skint </Term> 
+<Description> Broke / poor / no money </Description> 
+<AudioFile>skint</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="29"> 
+<Term> GC </Term> 
+<Description> Good Chap. Kiwi’s will commonly change the word “Chap” to another word starting with C which I will not write here in case of causing offence!  </Description> 
+<AudioFile>gc</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="30"> 
+<Term> Shorts </Term> 
+<Description>  Short pants </Description> 
+<AudioFile>shorts</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="31"> 
+<Term> Stubbie </Term> 
+<Description> 	Can of Beer or very short pants that men wear, especially farmers and rugby players </Description> 
+<AudioFile>stubbie</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="32"> 
+<Term> Ta </Term> 
+<Description> Thank You </Description> 
+<AudioFile>ta</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="33"> 
+<Term> Hot Chips </Term> 
+<Description> French Fries </Description> 
+<AudioFile>hotchips</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="34"> 
+<Term> Chips </Term> 
+<Description> Crisps </Description> 
+<AudioFile>chips</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="35"> 
+<Term> Dairy </Term> 
+<Description> Corner Store </Description> 
+<AudioFile>dairy</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="36"> 
+<Term> Eh </Term> 
+<Description> Eh? as in Pardon? </Description> 
+<AudioFile>eh</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="37"> 
+<Term> Flannel </Term> 
+<Description> Face Cloth </Description> 
+<AudioFile>flannel</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="38"> 
+<Term> Hard Case </Term> 
+<Description> Funny person - "Yeah, he's quite a hard case" </Description> 
+<AudioFile>hardcase</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="39">  
+<Term> Mate </Term> 
+<Description> Friend - "Thanks Mate" </Description> 
+<AudioFile>mate</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="40"> 
+<Term> Chur </Term> 
+<Description> Thank You - "Chur Bro" </Description> 
+<AudioFile>chur</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="41"> 
+<Term> Piss </Term> 
+<Description> Alcohol- "I'm on the piss" </Description> 
+<AudioFile>piss</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="42"> 
+<Term> Sunday Driver </Term> 
+<Description> Slow driver normally well below speed limit </Description> 
+<AudioFile>sundaydriver</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="43"> 
+<Term> Wop-Wops </Term> 
+<Description> Middle of nowhere </Description> 
+<AudioFile>wopwops</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="44"> 
+<Term> The Boonies </Term> 
+<Description> Middle of nowhere </Description> 
+<AudioFile>theboonies</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="45"> 
+<Term> Tramping </Term> 
+<Description> Hiking </Description> 
+<AudioFile>tramping</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="46"> 
+<Term> Torch </Term> 
+<Description> Flashlight </Description> 
+<AudioFile>torch</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="47"> 
+<Term> Tu Meke </Term> 
+<Description> Awesome, good job </Description> 
+<AudioFile>tumeke</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="48"> 
+<Term> Waka </Term> 
+<Description> Maori Canoe - also what we commonly refer to the bus as - "land waka" </Description> 
+<AudioFile>waka</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="49"> 
+<Term> Not Even </Term> 
+<Description> Not true </Description> 
+<AudioFile>noteven</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="50"> 
+<Term> Not Even Ow </Term> 
+<Description> Not true Ow </Description> 
+<AudioFile>notevenow</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="51"> 
+<Term> Ow </Term> 
+<Description> Not really a meaning to this, just gives the phrase being used more emphasis </Description> 
+<AudioFile>ow</AudioFile>
+</SlangTerm>
+
+
+<SlangTerm id="52"> 
+<Term> Gawk </Term> 
+<Description> Stare e.g. "stop gawking at me" </Description> 
+<AudioFile>gawk</AudioFile>
+</SlangTerm>
+
+
+<SlangTerm id="53"> 
+<Term> Red Bands </Term> 
+<Description> A truely iconic brand of Gumboots (Wellingtons) made in New Zealand. Come on, gran your Red Bands and I'll take ya out on a tour of the farm. </Description> 
+<AudioFile>redbands</AudioFile>
+</SlangTerm>
+
+
+<SlangTerm id="54"> 
+<Term> Heaps </Term> 
+<Description> Lots - e.g. yeah there are heaps of sheep in New Zealand. </Description> 
+<AudioFile>heaps</AudioFile>
+</SlangTerm>
+
+
+<SlangTerm id="55"> 
+<Term> You alright? </Term> 
+<Description> 	A question used in greeting, basically meaning"how are you?". Amanda uses this often and finds she worries passengers into thinking that she thinks that they are sick. Whoops!</Description> 
+<AudioFile>youalright</AudioFile>
+</SlangTerm>
+
+
+<SlangTerm id="56"> 
+<Term> G String </Term> 
+<Description> Thong style underwear. </Description> 
+<AudioFile>gstring</AudioFile>
+</SlangTerm>
+
+
+<SlangTerm id="57"> 
+<Term> Gumboots </Term> 
+<Description> Wellingtons / Out door water proof boots. </Description> 
+<AudioFile>gumboots</AudioFile>
+</SlangTerm>
+
+
+<SlangTerm id="58"> 
+<Term> Bogans </Term> 
+<Description> A person with an unsophisticated background, or whose speech, clothing, attitude and behaviour exemplify a lack of manners and education. Google "Outrageous Fortune" a NZ TV Show...this helps give you a visual! </Description> 
+<AudioFile>bogans</AudioFile>
+</SlangTerm>
+
+
+<SlangTerm id="59"> 
+<Term> Westie </Term> 
+<Description> Referring to West Aucklanders, who many believe appear to be Bogans. Again, Google "Outrageous Fortune"..... </Description> 
+<AudioFile>westie</AudioFile>
+</SlangTerm>
+
+
+<SlangTerm id="60"> 
+<Term> Cuppa </Term> 
+<Description> Refers to a cup of tea or coffee - we do tend to speak quickly and merge our words, so "cup of tea" became "cuppa tea". </Description> 
+<AudioFile>cuppa</AudioFile>
+</SlangTerm>
+
+
+<SlangTerm id="61"> 
+<Term> Squizz </Term> 
+<Description> Take a look - "Here let me have a squizz". </Description> 
+<AudioFile>squizz</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="62"> 
+<Term> Flat Out </Term> 
+<Description> "Oh man, he was just roaring down the motorway going flat out!". AKA "Oh man, he was going very fast down the highway". </Description> 
+<AudioFile>flatout</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="63"> 
+<Term> Motor Way </Term> 
+<Description> High way. </Description> 
+<AudioFile>motorway</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="64"> 
+<Term> Hard Out </Term> 
+<Description>  "Oh yeah hard out!" meaning "I totally agree!". </Description> 
+<AudioFile>ahrdout</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="65"> 
+<Term> Hard Bro </Term> 
+<Description>  "Hard Bro, hard" bascially in agreement with their friend. </Description> 
+<AudioFile>hardbro</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="67"> 
+<Term> 'P' </Term> 
+<Description>  Methamphetamine/Ice - called "P" due to the Pseudoephedrine used to manufacture the drug. </Description> 
+<AudioFile>p</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="68"> 
+<Term> Dear </Term> 
+<Description> Expensive - "that shop is dear" </Description> 
+<AudioFile>dear</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="69"> 
+<Term> Pretty </Term> 
+<Description> We use this two ways - to tell you that you are pretty/beautiful or to over extend "that shop is pretty dear", "yeah it's pretty expensive" </Description> 
+<AudioFile>pretty</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="70"> 
+<Term> Takeaways </Term> 
+<Description> Fast food </Description> 
+<AudioFile>takeaways</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="71"> 
+<Term> Munted </Term> 
+<Description> Broken / Not Working / Damaged </Description> 
+<AudioFile>munted</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="72"> 
+<Term> Suss  </Term> 
+<Description> To investigate, or short for suspect - "I need to suss it out first"  or  "he does look a bit suss" </Description> 
+<AudioFile>suss</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="73"> 
+<Term> Chocka </Term> 
+<Description>  	Full or overflowing "the bus is chocka today!" </Description> 
+<AudioFile>chocka</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="74"> 
+<Term> Bach (pronounced BATCH) </Term> 
+<Description> A holiday home. </Description> 
+<AudioFile>bach</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="75"> 
+<Term> Crib </Term> 
+<Description> Those in the South Island refer to a Bach as a Crib. </Description> 
+<AudioFile>crib</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="76"> 
+<Term> Togs </Term> 
+<Description> Swimsuit </Description> 
+<AudioFile>togs</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="77"> 
+<Term> Eh? </Term> 
+<Description> What? Pardon? pronounced "ay" </Description> 
+<AudioFile>eh</AudioFile>
+</SlangTerm>
+
+<SlangTerm id="78"> 
+<Term> Eh </Term> 
+<Description> Used at the end of a sentence when you're not really asking a question, more providing a statement that you want confirmation for such as "it's really hot today, eh" </Description> 
+<AudioFile>eh</AudioFile>
+</SlangTerm>
+</Slang>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Slang Me</string>
+    <string name="slang">Slang Me Button!</string>
+    <string name="close">Close Button!</string>
+    <string name="play">Play Slang Button!</string>
+    <string name="plus">Plus Speech Speed Button!</string>
+    <string name="minus">Minus Speech Speed Button!</string>
+
+</resources>

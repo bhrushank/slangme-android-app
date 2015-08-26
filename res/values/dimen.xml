@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin">20dp</dimen>
+    <dimen name="margin_popup">10dp</dimen>
+    <dimen name="term">40sp</dimen>
+    <dimen name="description">15sp</dimen>
+    <dimen name="margin_btnPlus">50dp</dimen>
+    <dimen name="margin_btnMinus">15dp</dimen>
+    
+
+</resources>
